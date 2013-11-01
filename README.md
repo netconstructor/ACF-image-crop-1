@@ -9,3 +9,7 @@ Here you can edit the file by clicking on `edit image` and crop it to any size y
 * Go to `wp-content/themes/YOUR-THEME/functions.php` file and put this right below the `<?php` tag:
 * `register_field('acf_Image_Crop', dirname(__FILE__).'fields/image_crop.php');`
 You now have a field type called Image Crop.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/netconstructor/acf-image-crop-1/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
